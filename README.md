@@ -16,6 +16,7 @@ BotToken=ThisIsMyBotToken
 AppID=5634655231564
 ```
 and of course use your own
+
 4. Run using `go run .` or `go build` then run .exe and you are done!
 
 ## Know Issue
