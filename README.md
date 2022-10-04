@@ -10,13 +10,11 @@ Tower of Fantasy party finder using Discord Bot API written in GO and using [dis
 ### Building
 1. Download the source
 2. Create file name "config.env"
-3. Create ENV variable name `BotToken` and `AppID` and may look like this
+3. Create ENV variable name `BotToken` and `AppID` and may look like this. Oh, and of course use your own
 ```
 BotToken=ThisIsMyBotToken
 AppID=5634655231564
 ```
-and of course use your own
-
 4. Run using `go run .` or `go build` then run .exe and you are done!
 
 ## Know Issue
