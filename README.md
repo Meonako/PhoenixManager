@@ -10,7 +10,7 @@ Tower of Fantasy party finder using Discord Bot API written in GO and using [dis
 ### Building
 1. Download the source
 2. Create file name "config.env"
-3. Create ENV variable name `BotToken` and `AppID` and may look like this. Oh, and of course use your own
+3. In "config.env", Create ENV variable name `BotToken` and `AppID` and may look like this. **Oh, and of course use your own**
 ```
 BotToken=ThisIsMyBotToken
 AppID=5634655231564
@@ -29,3 +29,10 @@ AppID=5634655231564
 - Why GO?
 > TBH I like Python because it's easy to write and understand but it DOES NOT compile down to .exe that can execute quickly by just simply double click.
 > Of course there's a way but that's too much work to be done so I choose GO
+
+## NOTE
+Hey, if you wanna play Tower of Fantasy with me, you can add me in the game. I'm on SEA - Odyssey and my character name is "Meonako". Have a good day!
+
+4 Oct 2022
+![image](https://user-images.githubusercontent.com/76484203/193728432-5b010b3f-a969-4c07-aae8-9f617c2ac041.png)
+
