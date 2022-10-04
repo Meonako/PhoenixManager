@@ -13,3 +13,10 @@ Tower of Fantasy party finder using Discord Bot API written in GO and using [dis
 
 ## Consider to Implement
 * Party that only available to specific Guild only
+
+## Q & A
+- Why named "Phoenix Manger"?
+> Because my CREW name is "PHOENIX"
+- Why GO?
+> TBH I like Python because it's easy to write and understand but it DOES NOT compile down to .exe that can execute quickly by just simply double click
+> Of course there's a way but that's too much work to be done so I choose GO
