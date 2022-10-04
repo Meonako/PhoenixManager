@@ -7,6 +7,16 @@ Tower of Fantasy party finder using Discord Bot API written in GO and using [dis
 > I used 1.19.1 so it might not be usable in some version but you can try :)
 * Your own discord bot
 > Token and Application ID because slash command require Application ID to register command
+### Building
+1. Download the source
+2. Create file name "config.env"
+3. Create ENV variable name `BotToken` and `AppID` and may look like this
+```
+BotToken=ThisIsMyBotToken
+AppID=5634655231564
+```
+and of course use your own
+4. Run using `go run .` or `go build` then run .exe and you are done!
 
 ## Know Issue
 * You can join the same party and when you press "Leave Party", it will panic
