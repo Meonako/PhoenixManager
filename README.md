@@ -18,7 +18,7 @@ AppID=5634655231564
 4. Run using `go run .` or `go build` then run .exe and you are done!
 
 ## Know Issue
-* You can join the same party and when you press "Leave Party", it will panic
+* You can join the same party twice and when you press "Leave Party", it will panic
 
 ## Consider to Implement
 * Party that only available to specific Guild only
