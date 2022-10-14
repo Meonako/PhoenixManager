@@ -23,6 +23,9 @@ AppID=5634655231564
 ## Consider to Implement
 * Party that only available to specific Guild only
 
+## License
+**NONE!** Why? Because it's quite easy to write. It'll take you a little to no effort.
+
 ## Q & A
 - Why named "Phoenix Manger"?
 > Because my CREW name is "PHOENIX"
